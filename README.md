@@ -6,10 +6,11 @@
 
 ## Etapa 1:
 > Componentes Básicos
+
 - Trabajo de Investigación
 - Codificación y Diseño del Logo
 - Juego KingCoder
 
-
+- 
 > PLEASE DO NOT EDIT THE SOURCE CODE!
 IS ONLY FOR EDUCATIONAL PORPOUSE!
