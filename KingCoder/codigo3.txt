@@ -1,1 +1,11 @@
-﻿
+﻿/* CODIGO 3 PARA KINGCODER */
+/***************************/
+
+1	void SumSiAPar(float a float b, float& x){
+2		if(A%2 = 0)
+3			x = a+b;
+4		
+5		retur;
+6	}
+
+Errores:  1-2-5

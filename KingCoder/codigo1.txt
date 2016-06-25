@@ -1,1 +1,16 @@
-﻿
+﻿/* CODIGO 1 PARA KINGCODER */
+/***************************/
+
+1	#include <iostring>
+2	using namespace std;
+3	int main (void){
+4		int n;
+5		cout << "Demuestre su habilidad."<;
+6		cin >> n;
+7		if(n > 10)
+8			return n;
+9		cout < "Menor que 10.";
+10		return;
+11	}
+
+Errores: 1-5-9-10

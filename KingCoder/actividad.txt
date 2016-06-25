@@ -3,7 +3,7 @@
 Se propondrán distintos juegos que cada grupo deberá implementar.
 
 Entre ellos está el KingCoder, que es un juego en el que el usuario verá códigos en C++ y deberá
-identificar los errores. En esta primera etapa, cada grupo deberá subir a la tarea C ódigos para KingCoder
+identificar los errores. En esta primera etapa, cada grupo deberá subir a la tarea Códigos para KingCoder
 tres códigos en C++ (programas o definiciones de funciones) que deberán contener errores de sintaxis,
 de semántica o de lógica.
 
